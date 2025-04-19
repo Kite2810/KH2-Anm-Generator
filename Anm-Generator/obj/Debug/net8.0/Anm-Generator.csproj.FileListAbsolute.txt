@@ -1,0 +1,14 @@
+C:\Users\Alex\source\repos\Anm-Generator\Anm-Generator\bin\Debug\net8.0\Anm-Generator.exe
+C:\Users\Alex\source\repos\Anm-Generator\Anm-Generator\bin\Debug\net8.0\Anm-Generator.deps.json
+C:\Users\Alex\source\repos\Anm-Generator\Anm-Generator\bin\Debug\net8.0\Anm-Generator.runtimeconfig.json
+C:\Users\Alex\source\repos\Anm-Generator\Anm-Generator\bin\Debug\net8.0\Anm-Generator.dll
+C:\Users\Alex\source\repos\Anm-Generator\Anm-Generator\bin\Debug\net8.0\Anm-Generator.pdb
+C:\Users\Alex\source\repos\Anm-Generator\Anm-Generator\obj\Debug\net8.0\Anm-Generator.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Alex\source\repos\Anm-Generator\Anm-Generator\obj\Debug\net8.0\Anm-Generator.AssemblyInfoInputs.cache
+C:\Users\Alex\source\repos\Anm-Generator\Anm-Generator\obj\Debug\net8.0\Anm-Generator.AssemblyInfo.cs
+C:\Users\Alex\source\repos\Anm-Generator\Anm-Generator\obj\Debug\net8.0\Anm-Generator.csproj.CoreCompileInputs.cache
+C:\Users\Alex\source\repos\Anm-Generator\Anm-Generator\obj\Debug\net8.0\Anm-Generator.dll
+C:\Users\Alex\source\repos\Anm-Generator\Anm-Generator\obj\Debug\net8.0\refint\Anm-Generator.dll
+C:\Users\Alex\source\repos\Anm-Generator\Anm-Generator\obj\Debug\net8.0\Anm-Generator.pdb
+C:\Users\Alex\source\repos\Anm-Generator\Anm-Generator\obj\Debug\net8.0\Anm-Generator.genruntimeconfig.cache
+C:\Users\Alex\source\repos\Anm-Generator\Anm-Generator\obj\Debug\net8.0\ref\Anm-Generator.dll
